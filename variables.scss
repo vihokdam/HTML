@@ -5,7 +5,10 @@ ul {
     color: $color;
 }
 
-{
+ol {
     font-size: 18px;
     color: $color;
 }
+
+//Live Sass Compiler on VS code
+//compile command: sass variables.scss:variables.css
